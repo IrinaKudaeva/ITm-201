@@ -5,18 +5,33 @@ VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Theatre", "Theatre\Theatre.sqlproj", "{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}"
 EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "TheatreAS", "TheatreAS\TheatreAS.dwproj", "{1CFB5C56-07A9-49ED-9409-852295A3FABC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Development|Any CPU = Development|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}.Development|Any CPU.Deploy.0 = Debug|Any CPU
 		{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1CFB5C56-07A9-49ED-9409-852295A3FABC}.Debug|Any CPU.ActiveCfg = Development
+		{1CFB5C56-07A9-49ED-9409-852295A3FABC}.Debug|Any CPU.Build.0 = Development
+		{1CFB5C56-07A9-49ED-9409-852295A3FABC}.Debug|Any CPU.Deploy.0 = Development
+		{1CFB5C56-07A9-49ED-9409-852295A3FABC}.Development|Any CPU.ActiveCfg = Development
+		{1CFB5C56-07A9-49ED-9409-852295A3FABC}.Development|Any CPU.Build.0 = Development
+		{1CFB5C56-07A9-49ED-9409-852295A3FABC}.Development|Any CPU.Deploy.0 = Development
+		{1CFB5C56-07A9-49ED-9409-852295A3FABC}.Release|Any CPU.ActiveCfg = Development
+		{1CFB5C56-07A9-49ED-9409-852295A3FABC}.Release|Any CPU.Build.0 = Development
+		{1CFB5C56-07A9-49ED-9409-852295A3FABC}.Release|Any CPU.Deploy.0 = Development
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
