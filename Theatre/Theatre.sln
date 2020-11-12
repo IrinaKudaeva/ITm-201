@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Theatre", "Theatre\Theatre.sqlproj", "{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3CE448A-6C28-4ED5-8FA5-3EDD5C65FBEC}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9E0CAE1-8AC7-4BDC-AD4B-E615D394EE5B}
+	EndGlobalSection
+EndGlobal
