@@ -1,4 +1,4 @@
-﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="aad1c21c-072d-4793-89e1-5bf114ee0a8d" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="6384649d-d8a3-4389-bb41-616dd855acd2" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>Clothing</ID>
   <Name>Clothing</Name>
   <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
@@ -8,7 +8,7 @@
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
       <Value>
         <dds xmlns="">
-          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-2243" scrolltop="-5953" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="7594" y="13785" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="3" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-2243" scrolltop="-5953" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="7594" y="13785" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
             <font>
               <ddsxmlobjectstreamwrapper binary="01cc0000900144420100065461686f6d61" />
             </font>
@@ -19,7 +19,7 @@
           <layoutmanager>
             <ddsxmlobj />
           </layoutmanager>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Clothing" left="20" top="0" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3069" height="1879" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="Clothing" left="20" top="0" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="3069" height="1879" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000fd0b000057070000" />
             </control>
@@ -68,31 +68,31 @@
   </Annotations>
   <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
   <State>Unprocessed</State>
-  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="539534be-1f43-466a-b75f-049f38b63d00">
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="7cbad25b-8bac-450f-afdf-8b0ba224a6bc">
     <DataSourceViewID>Theatre</DataSourceViewID>
   </Source>
-  <ErrorConfiguration dwd:design-time-name="c4542812-e86c-4e62-a420-e598ac6e2ae2">
+  <ErrorConfiguration dwd:design-time-name="794623e7-cc6c-429e-85e2-afb222cd5655">
     <KeyNotFound>ReportAndStop</KeyNotFound>
     <KeyDuplicate>ReportAndStop</KeyDuplicate>
     <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
   </ErrorConfiguration>
   <CurrentStorageMode>Molap</CurrentStorageMode>
   <Attributes>
-    <Attribute dwd:design-time-name="f2108afc-28a7-4257-84a8-6763d77caf08">
+    <Attribute dwd:design-time-name="90b035e3-2efe-4474-9592-6ef4614496b2">
       <ID>Id Clothes</ID>
       <Name>Id Clothes</Name>
       <Usage>Key</Usage>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="c89d318a-1e24-4554-9877-35ce1809a2b1">
+        <KeyColumn dwd:design-time-name="a6d54eee-176e-4896-8356-87aadcc65c15">
           <DataType>Integer</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="4f86a06f-1b6a-461d-889d-5ff47a8b94a1">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="c705040c-ef80-40f2-b512-3ff6c6103e71">
             <TableID>dbo_Clothing</TableID>
             <ColumnID>idClothes</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
       <AttributeRelationships>
-        <AttributeRelationship dwd:design-time-name="2e46256a-422d-4133-b9ed-e890fa1e8672">
+        <AttributeRelationship dwd:design-time-name="10db97fc-b785-4917-a647-6e5a4f0a9319">
           <AttributeID>Type Of Clohing</AttributeID>
           <Name>Type Of Clohing</Name>
         </AttributeRelationship>
@@ -101,14 +101,14 @@
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="00e534ea-2163-49f3-acba-db1cceca8d75">
+    <Attribute dwd:design-time-name="05dd0613-16b3-4e42-bd1a-ee3996a79151">
       <ID>Type Of Clohing</ID>
-      <Name>Type Of Clohing</Name>
+      <Name>Тип одежды</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="b77d5091-39d0-4025-b506-346f7e788532">
+        <KeyColumn dwd:design-time-name="2cc8614f-bab5-4c82-8daa-660fb4ce285f">
           <DataType>WChar</DataType>
           <DataSize>50</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="2de336be-6dfb-4e56-a51c-92626e42884c">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="397b0993-185f-4850-845d-24dcb61290fb">
             <TableID>dbo_Clothing</TableID>
             <ColumnID>TypeOfClohing</ColumnID>
           </Source>
@@ -120,16 +120,16 @@
     </Attribute>
   </Attributes>
   <Hierarchies>
-    <Hierarchy dwd:design-time-name="4baf4dab-aca4-4ad7-85ce-a519056f4f65">
+    <Hierarchy dwd:design-time-name="022d161d-3f72-474b-8a32-3011511d2f1c">
       <ID>Иерархия</ID>
       <Name>Иерархия</Name>
       <Levels>
-        <Level dwd:design-time-name="e547b88b-5bc9-46b4-8e49-5223ff9b672c">
+        <Level dwd:design-time-name="899316d4-522f-4c2e-b0bc-7685bd013bc8">
           <ID>Type Of Clohing</ID>
           <Name>Type Of Clohing</Name>
           <SourceAttributeID>Type Of Clohing</SourceAttributeID>
         </Level>
-        <Level dwd:design-time-name="6310b00f-487d-44b9-b3de-2385d60c596e">
+        <Level dwd:design-time-name="adc2c58e-9dc9-4a46-ad52-a8b171bc724c">
           <ID>Id Clothes</ID>
           <Name>Id Clothes</Name>
           <SourceAttributeID>Id Clothes</SourceAttributeID>

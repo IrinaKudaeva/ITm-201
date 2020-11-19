@@ -1,4 +1,4 @@
-﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="6e88e79b-6414-4733-a2b2-f6150508a16d" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="4fef7fb9-2b8a-4aaa-98c7-8f157a25ea9b" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>Type Of Performance</ID>
   <Name>Type Of Performance</Name>
   <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
@@ -8,7 +8,7 @@
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
       <Value>
         <dds xmlns="">
-          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-1806" scrolltop="-5953" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="7594" y="13785" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="3" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-1806" scrolltop="-5953" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="7594" y="13785" backcolor="16777215" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
             <font>
               <ddsxmlobjectstreamwrapper binary="01cc0000900144420100065461686f6d61" />
             </font>
@@ -19,7 +19,7 @@
           <layoutmanager>
             <ddsxmlobj />
           </layoutmanager>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="TypeOfPerformance" left="20" top="0" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3942" height="1879" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="TypeOfPerformance" left="20" top="0" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="3942" height="1879" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000660f000057070000" />
             </control>
@@ -89,31 +89,31 @@
   </Annotations>
   <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
   <State>Unprocessed</State>
-  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="de1e2eac-beec-41c7-a9c5-0e7de5e3e761">
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="a9bfe34d-837f-4b02-8b52-4ae054bf3c1b">
     <DataSourceViewID>Theatre</DataSourceViewID>
   </Source>
-  <ErrorConfiguration dwd:design-time-name="a86d5fa9-7580-4623-87ed-de10aaa390c4">
+  <ErrorConfiguration dwd:design-time-name="a475e3fe-89cb-4fac-b40f-4671ab74d7bd">
     <KeyNotFound>ReportAndStop</KeyNotFound>
     <KeyDuplicate>ReportAndStop</KeyDuplicate>
     <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
   </ErrorConfiguration>
   <CurrentStorageMode>Molap</CurrentStorageMode>
   <Attributes>
-    <Attribute dwd:design-time-name="f1768714-a6cf-47f2-9fe7-147b7deb6005">
+    <Attribute dwd:design-time-name="213fae07-6725-41f1-a055-42ab65e20403">
       <ID>Id Type Of Performance</ID>
       <Name>Id Type Of Performance</Name>
       <Usage>Key</Usage>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="862f22f8-a4a7-406a-abd0-8c2ab6571e7d">
+        <KeyColumn dwd:design-time-name="ff80fd6c-2d58-4825-a923-f152d45d5e67">
           <DataType>Integer</DataType>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="df87e77d-4f02-45fc-acef-81ff938cc96b">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="37fafdd7-82fa-445c-af6a-068f2c1743d7">
             <TableID>dbo_TypeOfPerformance</TableID>
             <ColumnID>idTypeOfPerformance</ColumnID>
           </Source>
         </KeyColumn>
       </KeyColumns>
       <AttributeRelationships>
-        <AttributeRelationship dwd:design-time-name="253d5d5f-6b4c-4f68-b063-331643ac54fa">
+        <AttributeRelationship dwd:design-time-name="4cec61b1-284f-44f7-8e33-91ef74dc81d9">
           <AttributeID>Type Of Performance</AttributeID>
           <Name>Type Of Performance</Name>
         </AttributeRelationship>
@@ -122,14 +122,14 @@
       <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
       <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
     </Attribute>
-    <Attribute dwd:design-time-name="8a7a7922-cc9c-4055-92b9-285b7f38497f">
+    <Attribute dwd:design-time-name="b6fadaf4-21bf-41cf-84e0-fc5c2c825f9b">
       <ID>Type Of Performance</ID>
-      <Name>Type Of Performance</Name>
+      <Name>Тип спектакля</Name>
       <KeyColumns>
-        <KeyColumn dwd:design-time-name="bac28f27-f590-44be-9807-18cd7fd7a232">
+        <KeyColumn dwd:design-time-name="1428b707-3b90-4a51-93b4-9df70cefb604">
           <DataType>WChar</DataType>
           <DataSize>50</DataSize>
-          <Source xsi:type="ColumnBinding" dwd:design-time-name="ebb31dd2-0eac-4cef-a569-e36bd3072372">
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="b29aefc6-d2c2-411b-aba0-c6dcc36d9f49">
             <TableID>dbo_TypeOfPerformance</TableID>
             <ColumnID>TypeOfPerformance</ColumnID>
           </Source>
@@ -141,16 +141,16 @@
     </Attribute>
   </Attributes>
   <Hierarchies>
-    <Hierarchy dwd:design-time-name="5a39d2d0-bb00-45d9-bb44-38595b646cce">
+    <Hierarchy dwd:design-time-name="dfe624e8-17f9-47ed-b52e-77119ea46f63">
       <ID>Иерархия</ID>
       <Name>Иерархия</Name>
       <Levels>
-        <Level dwd:design-time-name="0c9dfbf7-823f-408a-bc95-52337edfc4fc">
+        <Level dwd:design-time-name="2912dd8f-ea52-4d5b-808e-dab95fd5def4">
           <ID>Type Of Performance</ID>
           <Name>Type Of Performance</Name>
           <SourceAttributeID>Type Of Performance</SourceAttributeID>
         </Level>
-        <Level dwd:design-time-name="c5bb7ee0-733e-4bf1-bc43-b6af232629e2">
+        <Level dwd:design-time-name="e732e6bd-50fc-4bc7-9782-27e602959432">
           <ID>Id Type Of Performance</ID>
           <Name>Id Type Of Performance</Name>
           <SourceAttributeID>Id Type Of Performance</SourceAttributeID>
